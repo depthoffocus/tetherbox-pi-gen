@@ -1,3 +1,4 @@
 IMG_NAME="tetherbox"
-APT_PROXY="http://127.0.0.1:3142"
+APT_PROXY="http://157.245.46.223:3142"
 TARGET_HOSTNAME="tetherbox"
+ENABLE_SSH=1
