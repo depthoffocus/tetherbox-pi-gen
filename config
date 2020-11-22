@@ -2,5 +2,5 @@ IMG_NAME="tetherbox"
 APT_PROXY="http://157.245.46.223:3142"
 TARGET_HOSTNAME="tetherbox"
 ENABLE_SSH=1
-FIRST_USER="tog"
+FIRST_USER_NAME="tog"
 FIRST_USER_PASS="saycheese"
