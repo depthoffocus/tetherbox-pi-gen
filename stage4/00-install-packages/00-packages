@@ -19,7 +19,6 @@ python-twython python3-twython
 python-smbus python3-smbus
 python-flask python3-flask
 pprompt
-piwiz
 rp-prefapps
 ffmpeg
 vlc
